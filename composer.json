@@ -1,0 +1,22 @@
+{
+    "name": "victorruan/yii2-dropzone",
+    "description": "Yii2 Dropzone widget",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "dropzone", "upload"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "victorruan",
+            "email": "250069802@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "2.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "victorruan\\dropzone\\": ""
+        }
+    }
+}
